@@ -2,6 +2,11 @@
 
 A RAG API for querying the USC Faculty of Computer and Artificial Intelligence Internal Regulations using Google Gemini and ChromaDB. Supports bilingual queries in English and Arabic.
 
+## Live Demo
+
+- **API Endpoint**: https://ahmed-ayman-fcai-usc-regulations-chatbot-api.hf.space
+- **Hugging Face Space**: https://huggingface.co/spaces/ahmed-ayman/fcai-usc-regulations-chatbot-api
+
 ## Tech Stack
 
 - Flask
